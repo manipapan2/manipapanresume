@@ -1,0 +1,84 @@
+body{
+    background-color:bisque;
+    direction: ltr;
+}
+
+
+
+.divmar{
+    margin: auto;
+    width: 50%;
+}
+
+#pivasl{
+    
+    border: red 5px solid;
+    border-style:double ;
+    border-radius: 10px;
+    padding: 20px 10px 20px 10px;
+    
+}
+
+#pivasl h3{
+    text-align: justify;
+}
+
+.myForm{
+    border: darkorange solid 2px;
+    padding: 20px 20px 20px 200px;
+    border-radius: 10px;
+}
+
+
+#nameid , #numberid , #passid{
+    background-color: black;
+    border: dotted;
+    border-radius: 5px;
+    color: blueviolet;
+    border-color: yellow;
+}
+
+
+ul{
+   list-style:square; 
+}
+
+#maleid , #fmaleid{
+    cursor: pointer;
+}
+
+.ggf label{
+       cursor: pointer;
+}
+
+#resetid , #submitid{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}
+
+#resetid , #submitid:hover{
+    background-color: brown;
+}
+
+#googlesite{
+    text-decoration: none;
+    color: blue;
+}
+
+#googlesite:hover{
+    color: darkolivegreen;
+    text-decoration:underline;
+}
+
+.linki{
+    border: darkgreen solid 2px;
+    padding: 20px 20px 20px 200px;
+    border-radius: 5px;
+}
+
+.vidid{
+    border-radius: 5px;
+    border: darkcyan solid 2px;
+    padding: 20px 20px 20px 200px;
+}
