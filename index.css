@@ -83,3 +83,7 @@ ul{
     border: darkcyan solid 2px;
     padding: 20px 20px 20px 200px;
 }
+
+#englishdr , #englishid {
+    cursor: pointer;
+}
